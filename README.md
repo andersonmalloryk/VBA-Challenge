@@ -22,3 +22,4 @@ Methodology
 1. It resets the start to the next ticker's opening value.
 
 Screenshots are uploaded as files
+![Screen shot](https://github.com/andersonmalloryk/VBA-Challenge/blob/main/Anderson_VBA_2014.jpg)
